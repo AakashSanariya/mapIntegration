@@ -76,7 +76,6 @@
             <input type="submit"  class="btn btn-info btn-block my-4" value="submit">
         </div>
     </form>
-    <button onclick="codeAddress()">Get Latitude</button>
     <!-- Default form login -->
 </div>
 {{-- Map Script--}}
